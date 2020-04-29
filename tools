@@ -28,13 +28,13 @@ echo -e $white"[#]> Here  ... "
 read enter
 exit
 }
-echo -e $red"            _______  __    _  __   __  __   __ 
-echo -e $white"         |   _   ||  |  | ||  | |  ||  |_|  |
-echo -e $red"           |  |_|  ||   |_| ||  |_|  ||       |
-echo -e $white"         |       ||       ||       ||       |
-echo -e $red"           |       ||  _    ||_     _||       |
-echo -e $white"         |   _   || | |   |  |   |  | ||_|| |
-echo -e $red"           |__| |__||_|  |__|  |___|  |_|   |_|
+                         _______  __    _  __   __  __   __ 
+                        |   _   ||  |  | ||  | |  ||  |_|  |
+                        |  |_|  ||   |_| ||  |_|  ||       |
+                        |       ||       ||       ||       |
+                        |       ||  _    ||_     _||       |
+                        |   _   || | |   |  |   |  | ||_|| |
+                        |__| |__||_|  |__|  |___|  |_|   |_|
 echo -e $red"         ***********************************************"
 echo -e $white"         # $red toolkit for hackers         $white               #"
 echo -e $red"         # $red happy fun guys                $red             #"
